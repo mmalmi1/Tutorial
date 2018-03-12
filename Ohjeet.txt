@@ -1,5 +1,5 @@
 git clone "URL"
 git status
-git add "tiedosto"
+git add -m "viesti tähän"
 git commit
 git push
