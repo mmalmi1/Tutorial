@@ -1,5 +1,9 @@
 git clone "URL"
 git status
-git add -m "viesti tähän"
+git add -m "viesti tähän" / git add -A
 git commit
 git push
+
+git pull
+
+esc :wq
