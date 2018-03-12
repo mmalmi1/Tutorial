@@ -7,3 +7,9 @@ git push
 git pull
 
 esc :wq
+
+git branch
+git branch "uusi oksa"
+git checkout "oksa"
+git merge master
+git push --set-upstream origin "päivitysoksa"
